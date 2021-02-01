@@ -8,3 +8,4 @@ Includes the following CLI tools:
 - dot
 - m4
 - make
+- ttf-liberation

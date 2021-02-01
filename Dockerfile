@@ -1,3 +1,3 @@
 FROM alpine:3
 
-RUN apk add --no-cache graphviz m4 make
+RUN apk add --no-cache graphviz m4 make ttf-liberation
