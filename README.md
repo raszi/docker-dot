@@ -5,7 +5,8 @@
 
 Based on [Alpine Linux](https://alpinelinux.org/), includes the following packages:
 
-- dot
+- git
+- graphviz
 - m4
 - make
 - ttf-liberation
